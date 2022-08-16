@@ -1,0 +1,175 @@
+.navbar{
+    border-bottom:5px solid #B28655 ;
+}
+.nav-link{
+    font-size: 1.3rem;
+}
+.nav-link:hover{
+    color: #B28655;
+}
+header{
+    min-height: 100vh;
+    background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)) , url(../images/header.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.hed{
+    margin-top: 300px;
+    border: solid 2px  #B28655;
+    color:white;
+    margin-left: 50px;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+}
+i{
+    color: #B28655;
+    width: 10px;
+}
+.ad{
+margin-top: 400px;
+color: white;
+}
+h4{
+    color: #B28655;
+}
+h2{
+    color: white;
+}
+span{
+    color: #B28655;
+}
+
+.servies{
+    background:linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.9)) 
+    , url(../images/rep.jpg);
+
+}
+.ser{
+    border: solid 1px #B28655;
+    padding: 30px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    width: 100%;
+    
+}
+
+.ser i{
+ 
+    text-align: center;
+    font-size: 40px;
+}
+.ser h3{
+    color: white;
+}
+.ser h3 :hover{
+    color: #B28655;
+}
+.ser p{
+    color: white;
+}
+#cll{
+    display: flex;
+
+}
+.cli{
+    margin-top: 50px;
+    text-align: center;
+  
+}
+
+
+
+.box{
+    background-color: #B28655;
+    color: white;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    background:linear-gradient(#D4A96D,#9C7046)
+}
+.box1{
+    background-color:black;
+    color: white;
+    border: solid 2px #B28655;
+    height: 100px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    background:linear-gradient(gray,black)
+}
+
+#imge img{
+width: 1900px;
+height: 800px;
+}
+#location{
+    margin-top: 20px;
+}
+.left img{
+    text-align: center;
+    width: 550px;
+    height: 650px;
+}
+.right{
+    margin-top: 150px;
+}
+.right img{
+    height: 100px;
+    width: 100px;
+}
+
+.log{
+    background:linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.9)) 
+    , url(../images/log\ in.jpg);
+    color: #B28655;
+
+}
+#contact form{
+    margin-top: 50px;
+}
+
+input{
+    
+        width: 100%;
+      margin-bottom: 20px;
+        padding: 10px;
+        border: solid 1px #ddd;
+    
+}
+
+select,textarea{
+    width: 100%;
+  margin-bottom: 20px;
+    padding: 10px;
+    border: solid 1px #ddd;
+}
+button{
+    background-color: white;
+    border: solid 2px  #B28655;
+    color: #B28655;
+ border-radius: 50px;
+    padding: 10px 20px;
+}
+button:hover{
+    background-color: #B28655;
+    border: solid 2px  #B28655;
+    color: white;
+}
+.log h2{
+    text-align: center;
+}
+footer{
+    color: #B28655;
+}
+hr{
+    width: 1200px;
+    color: #af6f25;
+    border: solid 2px #ce7e22;
+    text-align: center;
+}
